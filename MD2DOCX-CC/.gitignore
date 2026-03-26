@@ -1,0 +1,18 @@
+# 客户文档及模板（含隐私信息）
+Template.md
+Template.docx
+*.docx
+*.md
+!CLAUDE.md
+
+# 测试输出
+Output_*.docx
+new-test.docx
+
+# 本地配置
+.claude/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
