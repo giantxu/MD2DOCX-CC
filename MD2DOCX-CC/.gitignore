@@ -4,6 +4,7 @@ Template.docx
 *.docx
 *.md
 !CLAUDE.md
+!README.md
 
 # 测试输出
 Output_*.docx
